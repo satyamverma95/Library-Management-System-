@@ -1,0 +1,51 @@
+
+                               MATHS
+                                                           
+
+HIGHER ENGINEERING MATHEMATICS            RAMANA...........(BOOKID)....01
+Higher Mathematics for Engineering        Shima........................02
+Engineering Mathematics Sem-III           Dr.Manish....................03
+Higher Engineering Mathematics Vol-II     Dr.T.C.Gupta.................04
+Engineering Mathematics (PTU, Sem-III)    N.P.Bali.....................05
+Higher Engineering Mathematics Vol-III)   Dr.T.C.Gupta.................06
+
+
+                                 PHYSICS
+
+E.Physics : Theory and Experiment         S.K.Srivastava...(BOOKID)....07
+E.Physics (JNTU)                          Kakinada.....................08	         	           	
+E.Physics Theory and Experiment           S.K.Srivastava...............09	           	
+E.PHYSICS (ORIGINALS)                     JOSHI........................10		           	
+
+                                   CHEMISTRY
+
+
+E.Chemistry (As per VTU Syllabus)         S.K. Singh.......(BOOKID)....11
+E.Chemistry (MDU univ.) & (K. U.)         Sanjay Saxena................12
+E.CHEMISTRY FOR UTU                       R.CHINNAPPAN BASKAR..........13
+
+                                ELECTRICAL ENGINEERING
+
+B.Electrical Engineering (W.B)            Dr.N.K.Mandal....(BOOKID)....14
+B.Electrical Engineering (VTU)            C.L.Wadawa...................15
+B.ELECTRICAL ENGINEERING (ORIGINAL)       CHAKRABARTI..................16
+
+                                 CIVIL ENGINEERING
+  
+A book on Real Estate  Development        N.K.Sehgal.......(BOOKID)....17
+A Guide to the FIDIC Conditions           Michael Robinson.............18
+A Course in Civil Draughtmanship          Birdie.......................19
+
+                                     MATLAB
+Matlab: Version 4 :                       MathWorks........(BOOKID)....20
+MATLAB: MS-DOS Personal Computers         MathWorks....................21
+MATLAB Version 5 CD ROM Macintosh         MathWorks....................22
+MATLAB Version 5 Windows 95/NT            MathWorks....................23
+
+                                VALUE EDUCATIOIN
+
+Value Education Book - 1                  Krishnaswamy.....(BOOKID)....24
+Value Education Book - 2                  Jaya Krishnaswamy............25
+Human Values in Education                 N.L.Gupta....................26
+Human Values in Education                 N.L.Gupta....................27
+Education and Human Values                M.G.Chitkara.................28
