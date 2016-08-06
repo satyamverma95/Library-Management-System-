@@ -1,3 +1,10 @@
+/* Program to access country ,states and capital  from the excel database 
+
+  content :source code( MATLAB ),
+       database in excel,
+       Books details in text for representation purpose.
+
+  Authour: Satyam verma (1031310411)*/
 fclose('all');
 num = xlsread('LIBRARYDATABASE.xls','D1:F28');
  
