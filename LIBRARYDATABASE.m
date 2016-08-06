@@ -4,7 +4,7 @@
        database in excel,
        Books details in text for representation purpose.
 
-  Authour: Satyam verma (1031310411)*/
+  Authour: Satyam verma (1031310411)SRM University*/
 fclose('all');
 num = xlsread('LIBRARYDATABASE.xls','D1:F28');
  
