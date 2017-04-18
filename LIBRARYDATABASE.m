@@ -1,5 +1,4 @@
-/* Program to access country ,states and capital  from the excel database 
-
+/*Driver Program_for_ Library_Management System.
   content :source code( MATLAB ),
        database in excel,
        Books details in text for representation purpose.
